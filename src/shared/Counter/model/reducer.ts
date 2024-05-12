@@ -22,5 +22,3 @@ export default createReducer(
     });
   }
 );
-
-// something test
